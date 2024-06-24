@@ -1,0 +1,48 @@
+body{
+margin:0;
+padding:0;
+}
+.contain{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 30%;
+border:  solid black;
+border: none;
+border-radius: 10px;
+padding: 1rem 2rem;
+width: 300px;
+background-color: aliceblue;
+box-shadow: 10px 4px 0px 0px black;
+
+
+
+}
+
+#one{
+ margin: 10%;
+ color: wheat;
+ background-color: blue;
+ padding: 5px 10px;
+ border-radius: 9px;
+ color: white;
+
+ 
+}
+#two{
+    margin: 10%;
+    color: wheat;
+    background-color: rgb(19, 232, 86);
+    padding: 5px 10px;
+    border-radius: 9px;
+    color: white;
+}
+#three{
+    margin: 10%;
+    color: wheat;
+    background-color: rgb(255, 0, 0);
+    padding: 5px 10px;
+    border-radius: 9px;
+    color: white;
+}
+
